@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://baro.hitweb114.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
